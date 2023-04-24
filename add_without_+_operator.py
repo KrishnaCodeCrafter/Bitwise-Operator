@@ -1,5 +1,5 @@
-a = int(input())
-b = int(input())
+a = int(input("Enter your first number: "))
+b = int(input("Enter your second number: "))
 # Method 1
 def add_without_plus_M1(a,b):
     while b!=0:
