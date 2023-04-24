@@ -10,9 +10,3 @@ def add_without_plus_M1(a,b):
 result = add_without_plus_M1(a,b)
 print(result)
 
-# Method 2
-def add_without_plus_M2(a,b):
-    result = (a*a - b*b)/(a - b)
-    return result
-result = add_without_plus_M2(a,b)
-print(int(result))
