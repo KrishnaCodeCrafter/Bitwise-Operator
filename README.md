@@ -3,7 +3,7 @@ Adding integers using bitwise operators
 ## Prerequisites
 - [Python 3](https://www.python.org/downloads/) installed on your system
 ## Running the code
--1. Clone the repository to your local system
+1. Clone the repository to your local system
 ```bash
 git clone https://github.com/KrishnaCodeCrafter/Bitwise-Operator.git
 ```
